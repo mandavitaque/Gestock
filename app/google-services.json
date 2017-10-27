@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "694940163080",
+    "firebase_url": "https://gestock-237ec.firebaseio.com",
+    "project_id": "gestock-237ec",
+    "storage_bucket": "gestock-237ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694940163080:android:c575f0fcc3c9ab35",
+        "android_client_info": {
+          "package_name": "com.mandavitaque.gestock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694940163080-me2cl4fkeok340ovgdstqp3ok1hh9lfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mandavitaque.gestock",
+            "certificate_hash": "3a95e278cdaab09fb2ff8712f62f5aecfc1cec3d"
+          }
+        },
+        {
+          "client_id": "694940163080-mofkrb4q39smg7d45ndjnnmvtlb1mavl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdPK_WbmQjgZAcTSE3c8a1LJBJqMyBvo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694940163080-mofkrb4q39smg7d45ndjnnmvtlb1mavl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
