@@ -20,6 +20,6 @@ public class EstoqueActivity extends Activity {
         setContentView(R.layout.activity_estoque);
 
         listViewProdutos = findViewById(R.id.listviewEstoqueID);
-        produtoRefere
+
     }
 }
